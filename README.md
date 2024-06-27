@@ -3,20 +3,7 @@
 </p>
 
 ## About
-
-
-
-## Download Game 
-
-
-## Video Gameplay
-
-
-## Developer
-
-
-## Asset
-
+Learn basic programming, scene management, and player attack
 
 
 
